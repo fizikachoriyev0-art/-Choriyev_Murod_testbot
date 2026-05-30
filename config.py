@@ -1,0 +1,7 @@
+import os
+
+BOT_TOKEN = "8608189566:AAGJnOQRGmBOhAudfGqkTDSvo7FU0HVB5S4"
+
+ADMIN_IDS = [1011300793]
+
+DB_FILE = "bot_database.db"
